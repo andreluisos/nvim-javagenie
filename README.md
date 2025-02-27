@@ -17,7 +17,7 @@
 
 The plugin mainly aims to replicate the advanced functionalities of modern JPA development tools, bringing those capabilities seamlessly to Neovim. This effort seeks to attract Java developers back to Neovim by enabling an efficient and integrated workflow for JPA-centric tasks. It is a part of a series of plugins I'm working on, related to Java and Spring development.
 
-**nvim-javagenie** utilizes a standalone Tree-sitter instance provided by Python in a virtual environment, rather than relying on Neovim’s built-in Tree-sitter support. This standalone setup allows precise control over syntax tree parsing and customization, enabling the plugin to execute advanced Tree-sitter queries and modifications unique to JPA code. By directly identifying and manipulating Java elements like annotations, relationships, and specific JPA patterns, nvim-javagenie ensures accurate and efficient handling of code without interference from Neovim’s default Tree-sitter configuration.
+For ease of development, **nvim-javagenie** utilizes a standalone Tree-sitter instance provided by Python libraries in a virtual environment, rather than relying on Neovim’s built-in Tree-sitter support.
 
 **It is still under development**.
 
