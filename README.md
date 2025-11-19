@@ -1,3 +1,5 @@
+This repo was ported to https://github.com/syntaxpresso/syntaxpresso.nvim.
+
 <div align="center">
 
 # Java Genie
